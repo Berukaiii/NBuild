@@ -1,6 +1,6 @@
 a = game.Players.LocalPlayer
 
-if a.Name == "24kBrxky" then
+if a.Name == "Msyaksy" then
     print("hi")
 else
     print("hiii")
